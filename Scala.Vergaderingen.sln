@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.Vergaderingen.Wpf", "Scala.Vergaderingen.Wpf\Scala.Vergaderingen.Wpf.csproj", "{5ADF3D52-0BD5-420B-9761-4624184D4F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.Vergaderingen.Core", "Scala.Vergaderingen.Core\Scala.Vergaderingen.Core.csproj", "{6FAA8106-C3A6-4B2E-AFF3-44A30771C369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADF3D52-0BD5-420B-9761-4624184D4F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADF3D52-0BD5-420B-9761-4624184D4F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADF3D52-0BD5-420B-9761-4624184D4F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADF3D52-0BD5-420B-9761-4624184D4F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAA8106-C3A6-4B2E-AFF3-44A30771C369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAA8106-C3A6-4B2E-AFF3-44A30771C369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAA8106-C3A6-4B2E-AFF3-44A30771C369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAA8106-C3A6-4B2E-AFF3-44A30771C369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9E800D-3E69-42F3-A6E8-BE3905414862}
+	EndGlobalSection
+EndGlobal
